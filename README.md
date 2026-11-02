@@ -1,5 +1,4 @@
 ## 📊 Tableau Public Dashboards
-🔗 https://public.tableau.com/app/profile/[your-profile]
 
 - 🗳️ [Ghana Election Analytics](https://public.tableau.com/views/2020GeneralElectioninGhana/2020electionresult?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 👥 [Employee Engagement & eNPS Analysis](https://public.tableau.com/views/employeemotivation/introduction?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

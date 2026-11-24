@@ -1,4 +1,4 @@
-## 📊 Tableau Public Dashboards
+## 📊 Tableau Dashboards
 
 - 🏥 [Public Health Dashboard](https://public.tableau.com/views/covid-africa/COVID-19inAfrica?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 🗳️ [Ghana Election Analytics](https://public.tableau.com/views/2020GeneralElectioninGhana/2020electionresult?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
